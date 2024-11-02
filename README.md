@@ -1,5 +1,8 @@
 # Student_Mental_Health
 ## Projet : Student Mental Health
+## Description du projet : Application de Suivi des Statistiques de Santé Mentale des Étudiants
+### Contexte :
+#### L’objectif de ce projet est de développer une application qui recueille des données sur la santé mentale des étudiants, en particulier sur les maladies mentales auxquelles ils peuvent être confrontés. Ces données seront ensuite exploitées pour des analyses approfondies dans Power BI, afin de mieux comprendre les tendances, les besoins et de guider les actions des établissements.
 ## Source de Données : Kaggle(fichier csv)
 https://www.kaggle.com/datasets/shariful07/student-mental-health/data
 ## Langage : Python
