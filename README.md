@@ -1,6 +1,7 @@
 # Student_Mental_Health
 ## Projet : Student Mental Health
 ## Source de Données : Kaggle(fichier csv)
+https://www.kaggle.com/datasets/shariful07/student-mental-health/data
 ## Langage : Python
 ## Editeur de texte : Pycharm
 ## Architecture du projet
@@ -21,7 +22,7 @@
 #### pip -m venv nom_de_l_env
 #### Remplacez nom_de_l_env par le nom que vous souhaitez donner à l'environnement virtuel (par exemple, venv).
 
-### 4.Activez l’environnement virtuel
+### 4. Activez l’environnement virtuel
 #### nom_de_l_env\Scripts\activate
 
 #### Après activation, vous verrez le nom de l’environnement virtuel entre parenthèses au début de la ligne de commande, indiquant que l’environnement est actif. Par exemple :
