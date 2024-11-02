@@ -15,7 +15,7 @@ df.columns = ['Timestamp','Sexe','Age','Profession','AnneeEtudeActuelle','CGPA',
 
 # Sauvegarde du fichier transformé dans le dossier output
 output_path= '../output/Student_Mental_health_nettoye.csv'
-df.to_csv(output_path)
+df.to_csv(output_path, index= False)
 
 # Affiche les premières lignes pour vérifier l'ingestion
 print("Données initiales")
